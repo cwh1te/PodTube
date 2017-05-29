@@ -1,0 +1,2 @@
+pytube=6.2.2
+git+git://github.com/cwh1te/HandyLib.git
